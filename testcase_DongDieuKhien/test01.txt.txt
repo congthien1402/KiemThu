@@ -1,0 +1,18 @@
+Input:abcdefjhu
+Expected Output: false
+Actual Output: false
+
+------------
+Input:abcd
+Expected Output: false
+Actual Output: false
+
+---------
+Input:0123456789
+Expected Output: false
+Actual Output: false
+
+---------------
+Input:000
+Expected Output: false
+Actual Output: false

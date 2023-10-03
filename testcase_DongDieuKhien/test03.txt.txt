@@ -1,0 +1,18 @@
+Input:00000000
+Expected Output: true
+Actual Output: true
+
+------------
+Input:12345678
+Expected Output: true
+Actual Output: true
+
+---------
+Input:98765432
+Expected Output: true
+Actual Output: true
+
+---------------
+Input:12344321
+Expected Output: true
+Actual Output: true
